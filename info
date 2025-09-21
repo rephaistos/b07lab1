@@ -1,1 +1,14 @@
+#This is the Lab01 of CSCB07 in UofT
+#Polynomial class has 3 methods
+  1. It has a method named add that takes one argument of type Polynomial and
+    returns the polynomial resulting from adding the calling object and the argument
+  
+  2. It has a method named evaluate that takes one argument of type double
+    representing a value of x and evaluates the polynomial accordingly. For example,
+    if the polynomial is 6 − 2𝑥 + 5𝑥 % and evaluate(-1) is invoked, the result should be 3
 
+  3. It has a method named hasRoot that takes one argument of type double and
+    determines whether this value is a root of the polynomial or not. Note that a root
+    is a value of x for which the polynomial evaluates to zero
+
+#This Repo is maden by Rohat Dilberoglu
